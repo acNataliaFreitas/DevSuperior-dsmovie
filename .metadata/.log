@@ -816,3 +816,15 @@ java.io.FileNotFoundException: http://aetherial.cfapps.io/boot/typegraph/2.6.4
 
 !ENTRY org.eclipse.jface.text 2 0 2022-03-12 17:40:08.305
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-12 18:09:46.527
+!MESSAGE The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-12 18:10:05.644
+!MESSAGE The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-12 18:10:07.766
+!MESSAGE The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-12 18:10:12.542
+!MESSAGE The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details

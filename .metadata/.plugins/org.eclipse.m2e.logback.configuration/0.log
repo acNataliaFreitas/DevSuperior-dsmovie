@@ -881,3 +881,35 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2022-03-12 18:02:11,488 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-03-12 18:02:11,489 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-03-12 18:02:11,495 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:02:11,495 [Worker-44: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projeto\dsmovie\backend\src\test\resources
+2022-03-12 18:05:11,127 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:05:11,129 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-03-12 18:05:11,133 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:05:11,139 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:05:11,140 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projeto\dsmovie\backend\src\test\resources
+2022-03-12 18:09:08,608 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:09:08,609 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:09:08,611 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:09:08,617 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:09:08,618 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projeto\dsmovie\backend\src\test\resources
+2022-03-12 18:09:45,339 [Worker-43: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:dsmovie:0.0.1-SNAPSHOT @ C:\Projeto\dsmovie\backend\pom.xml.
+2022-03-12 18:09:46,525 [Worker-43: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-03-12 18:09:57,354 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:09:57,360 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:09:57,361 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:09:57,366 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:09:57,367 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projeto\dsmovie\backend\src\test\resources
+2022-03-12 18:10:05,642 [Worker-47: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-03-12 18:10:07,388 [Worker-50: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.devsuperior:dsmovie:0.0.1-SNAPSHOT @ C:\Projeto\dsmovie\backend\pom.xml.
+2022-03-12 18:10:07,764 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-03-12 18:10:10,647 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:10:10,653 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:10:10,654 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:10:10,659 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:10:10,660 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projeto\dsmovie\backend\src\test\resources
+2022-03-12 18:10:12,541 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.bytebuddy:byte-buddy:jar:1.11.22 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-03-12 18:10:13,008 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:10:13,009 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:10:13,010 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-03-12 18:10:13,014 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-12 18:10:13,015 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projeto\dsmovie\backend\src\test\resources
