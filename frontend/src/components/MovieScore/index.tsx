@@ -1,5 +1,4 @@
 import MovieStars from "components/MovieStars";
-
 import './styles.css'
 type Props = {
     score: number;
