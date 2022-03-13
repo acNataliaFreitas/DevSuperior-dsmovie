@@ -1,8 +1,13 @@
-INSERT INTO tb_user(email) VALUES ('maria@gmail.com');
+﻿INSERT INTO tb_user(email) VALUES ('maria@gmail.com');
+
 INSERT INTO tb_user(email) VALUES ('joao@gmail.com');
+
 INSERT INTO tb_user(email) VALUES ('ana@gmail.com');
+
 INSERT INTO tb_user(email) VALUES ('lucia@gmail.com');
+
 INSERT INTO tb_user(email) VALUES ('joaquim@gmail.com');
+
 
 INSERT INTO tb_movie(score, count, title, image) VALUES (4.5, 2, 'The Witcher', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (3.3, 3, 'Venom: Tempo de Carnificina', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg');
@@ -32,10 +37,6 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'O Último Duelo'
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Interestelar', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Contato', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/yFkUPqBuUnbhYbQL8VFpTrAT9za.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Duna', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg');
-INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Aquaman', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2cUsDz4TzFYHrKktT1bKHHQ7Cgm.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Aquaman', 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2cUsDz4TzFYHrKktT1bKHHQ7Cgm.jpg');INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 2, 3.0);
 
-INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 1, 5.0);
-INSERT INTO tb_score(movie_id, user_id, value) VALUES (1, 2, 4.0);
-INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 1, 3.0);
-INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 2, 3.0);
 INSERT INTO tb_score(movie_id, user_id, value) VALUES (2, 3, 4.0);
