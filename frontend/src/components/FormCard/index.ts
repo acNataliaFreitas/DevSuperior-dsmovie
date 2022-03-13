@@ -23,7 +23,8 @@ function FormCard({ movieId }: Props) {
                 setMovie(response.data);
             });
 
-    },[]);
+        },[movieId]);
+    
     const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
         event.preventDefault();
         const email = (event.target as any).email.value;
